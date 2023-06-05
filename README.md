@@ -5,7 +5,7 @@
 ⚡ Fun fact: Uso Python até para calcular a quantidade de café que devo beber ao longo do dia <br>
 
 ![Dante GitHub stats](https://github-readme-stats.vercel.app/api?username=dantefleschpereira&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dantefleschpereira&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dantefleschpereira&hide_progress=true)
 
 ## Tecnologias que eu uso no meu dia
 
