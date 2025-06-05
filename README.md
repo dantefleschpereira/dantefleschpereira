@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 🔭 No momento estou trabalhando com ETL de dados e aprendizado de máquina <br>
-🌱 Estou aprendendo JavaScript, TypeScript e MongoDB <br>
+🌱 Estou aprendendo Spark e RAG <br>
 ⚡ Fun fact: Uso Python até para calcular a quantidade de café que devo beber ao longo do dia <br>
 
 ![Dante GitHub stats](https://github-readme-stats.vercel.app/api?username=dantefleschpereira&show_icons=true&theme=dracula)
