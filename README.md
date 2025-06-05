@@ -2,7 +2,7 @@
 
 🔭 No momento estou trabalhando com ETL de dados e aprendizado de máquina <br>
 🌱 Estou aprendendo Spark e RAG <br>
-⚡ Fun fact: Uso Python até para calcular a quantidade de café que devo beber ao longo do dia <br>
+⚡ Fun fact: Uso Python até para calcular a quantidade de café  <br>
 
 ![Dante GitHub stats](https://github-readme-stats.vercel.app/api?username=dantefleschpereira&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dantefleschpereira&hide_progress=true)
