@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 No momento estou trabalhando com ETL de dados e aprendizado de máquina <br>
+🔭 No momento estou trabalhando com ETL de dados e machine learning <br>
 🌱 Estou aprendendo Spark e RAG <br>
 ⚡ Fun fact: Uso Python até para calcular a quantidade de café  <br>
 
